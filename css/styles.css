@@ -1,11 +1,9 @@
 .row {
     display: flex;
     justify-content: space-between;
-    padding: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 20px;  /* adjust spacing between rows as necessary */
 }
-
 .row img {
-    width: 30%;
+    width: 30%; /* adjust size as necessary */
     height: auto;
 }
